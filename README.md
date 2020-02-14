@@ -1,2 +1,1 @@
-# smart_aquarium_controller
-Smart Aquarium Controller
+# Smart Aquarium Controller
