@@ -506,7 +506,7 @@ Discarded input sections
  .debug_macro   0x00000000       0xac ./utilities/fsl_notifier.o
  .debug_macro   0x00000000       0x5f ./utilities/fsl_notifier.o
  .debug_line    0x00000000      0x3c9 ./utilities/fsl_notifier.o
- .debug_str     0x00000000    0x2a4ee ./utilities/fsl_notifier.o
+ .debug_str     0x00000000    0x2a4f1 ./utilities/fsl_notifier.o
  .comment       0x00000000       0x71 ./utilities/fsl_notifier.o
  .ARM.attributes
                 0x00000000       0x32 ./utilities/fsl_notifier.o
@@ -625,7 +625,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x5f ./utilities/fsl_shell.o
  .debug_macro   0x00000000       0x3a ./utilities/fsl_shell.o
  .debug_line    0x00000000      0x63b ./utilities/fsl_shell.o
- .debug_str     0x00000000    0x2aa33 ./utilities/fsl_shell.o
+ .debug_str     0x00000000    0x2aa36 ./utilities/fsl_shell.o
  .comment       0x00000000       0x71 ./utilities/fsl_shell.o
  .ARM.attributes
                 0x00000000       0x32 ./utilities/fsl_shell.o
@@ -854,7 +854,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x8c ./freertos/source/croutine.o
  .debug_macro   0x00000000       0x43 ./freertos/source/croutine.o
  .debug_line    0x00000000      0x246 ./freertos/source/croutine.o
- .debug_str     0x00000000     0x696d ./freertos/source/croutine.o
+ .debug_str     0x00000000     0x6970 ./freertos/source/croutine.o
  .comment       0x00000000       0x71 ./freertos/source/croutine.o
  .ARM.attributes
                 0x00000000       0x32 ./freertos/source/croutine.o
@@ -944,7 +944,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x8c ./freertos/source/event_groups.o
  .debug_macro   0x00000000       0x91 ./freertos/source/event_groups.o
  .debug_line    0x00000000      0x4f2 ./freertos/source/event_groups.o
- .debug_str     0x00000000     0x8421 ./freertos/source/event_groups.o
+ .debug_str     0x00000000     0x8424 ./freertos/source/event_groups.o
  .comment       0x00000000       0x71 ./freertos/source/event_groups.o
  .ARM.attributes
                 0x00000000       0x32 ./freertos/source/event_groups.o
@@ -1547,7 +1547,7 @@ Discarded input sections
  .debug_macro   0x00000000       0xac ./drivers/fsl_acmp.o
  .debug_macro   0x00000000       0x5f ./drivers/fsl_acmp.o
  .debug_line    0x00000000      0x435 ./drivers/fsl_acmp.o
- .debug_str     0x00000000    0x2aaa1 ./drivers/fsl_acmp.o
+ .debug_str     0x00000000    0x2aaa4 ./drivers/fsl_acmp.o
  .comment       0x00000000       0x71 ./drivers/fsl_acmp.o
  .ARM.attributes
                 0x00000000       0x32 ./drivers/fsl_acmp.o
@@ -1797,7 +1797,7 @@ Discarded input sections
  .debug_macro   0x00000000       0xac ./drivers/fsl_common.o
  .debug_macro   0x00000000       0x5f ./drivers/fsl_common.o
  .debug_line    0x00000000      0x317 ./drivers/fsl_common.o
- .debug_str     0x00000000    0x2a01c ./drivers/fsl_common.o
+ .debug_str     0x00000000    0x2a01f ./drivers/fsl_common.o
  .comment       0x00000000       0x71 ./drivers/fsl_common.o
  .ARM.attributes
                 0x00000000       0x32 ./drivers/fsl_common.o
@@ -1957,7 +1957,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x5f ./drivers/fsl_flash.o
  .debug_macro   0x00000000       0x49 ./drivers/fsl_flash.o
  .debug_line    0x00000000      0x813 ./drivers/fsl_flash.o
- .debug_str     0x00000000    0x2c4ee ./drivers/fsl_flash.o
+ .debug_str     0x00000000    0x2c4f1 ./drivers/fsl_flash.o
  .comment       0x00000000       0x71 ./drivers/fsl_flash.o
  .ARM.attributes
                 0x00000000       0x32 ./drivers/fsl_flash.o
@@ -2422,7 +2422,7 @@ Discarded input sections
  .debug_macro   0x00000000       0xac ./drivers/fsl_irq.o
  .debug_macro   0x00000000       0x5f ./drivers/fsl_irq.o
  .debug_line    0x00000000      0x3a4 ./drivers/fsl_irq.o
- .debug_str     0x00000000    0x2a850 ./drivers/fsl_irq.o
+ .debug_str     0x00000000    0x2a853 ./drivers/fsl_irq.o
  .comment       0x00000000       0x71 ./drivers/fsl_irq.o
  .ARM.attributes
                 0x00000000       0x32 ./drivers/fsl_irq.o
@@ -2522,7 +2522,7 @@ Discarded input sections
  .debug_macro   0x00000000       0xac ./drivers/fsl_kbi.o
  .debug_macro   0x00000000       0x5f ./drivers/fsl_kbi.o
  .debug_line    0x00000000      0x3db ./drivers/fsl_kbi.o
- .debug_str     0x00000000    0x2aaf9 ./drivers/fsl_kbi.o
+ .debug_str     0x00000000    0x2aafc ./drivers/fsl_kbi.o
  .comment       0x00000000       0x71 ./drivers/fsl_kbi.o
  .ARM.attributes
                 0x00000000       0x32 ./drivers/fsl_kbi.o
@@ -2948,7 +2948,7 @@ Discarded input sections
  .debug_macro   0x00000000       0xac ./drivers/fsl_pwt.o
  .debug_macro   0x00000000       0x5f ./drivers/fsl_pwt.o
  .debug_line    0x00000000      0x3e8 ./drivers/fsl_pwt.o
- .debug_str     0x00000000    0x2aa13 ./drivers/fsl_pwt.o
+ .debug_str     0x00000000    0x2aa16 ./drivers/fsl_pwt.o
  .comment       0x00000000       0x71 ./drivers/fsl_pwt.o
  .ARM.attributes
                 0x00000000       0x32 ./drivers/fsl_pwt.o
@@ -3301,7 +3301,7 @@ Discarded input sections
  .debug_macro   0x00000000       0xac ./drivers/fsl_tpm.o
  .debug_macro   0x00000000       0x5f ./drivers/fsl_tpm.o
  .debug_line    0x00000000      0x5cf ./drivers/fsl_tpm.o
- .debug_str     0x00000000    0x2aef7 ./drivers/fsl_tpm.o
+ .debug_str     0x00000000    0x2aefa ./drivers/fsl_tpm.o
  .comment       0x00000000       0x71 ./drivers/fsl_tpm.o
  .ARM.attributes
                 0x00000000       0x32 ./drivers/fsl_tpm.o
@@ -3550,7 +3550,7 @@ Discarded input sections
  .debug_macro   0x00000000       0xac ./drivers/fsl_wdog8.o
  .debug_macro   0x00000000       0x5f ./drivers/fsl_wdog8.o
  .debug_line    0x00000000      0x43d ./drivers/fsl_wdog8.o
- .debug_str     0x00000000    0x2a480 ./drivers/fsl_wdog8.o
+ .debug_str     0x00000000    0x2a483 ./drivers/fsl_wdog8.o
  .comment       0x00000000       0x71 ./drivers/fsl_wdog8.o
  .ARM.attributes
                 0x00000000       0x32 ./drivers/fsl_wdog8.o
@@ -3706,7 +3706,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x1b ./board/peripherals.o
  .debug_macro   0x00000000      0x820 ./board/peripherals.o
  .debug_line    0x00000000       0x58 ./board/peripherals.o
- .debug_str     0x00000000     0x2353 ./board/peripherals.o
+ .debug_str     0x00000000     0x2356 ./board/peripherals.o
  .comment       0x00000000       0x71 ./board/peripherals.o
  .ARM.attributes
                 0x00000000       0x32 ./board/peripherals.o
@@ -7235,46 +7235,46 @@ LOAD /opt/Freescale/KDS_v3/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/
                 0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region m_data overflowed with stack and heap)
 OUTPUT(SmartAqua.elf elf32-littlearm)
 
-.debug_info     0x00000000    0x1733a
+.debug_info     0x00000000    0x1733d
  .debug_info    0x00000000       0xf8 ./utilities/fsl_assert.o
  .debug_info    0x000000f8      0x3fe ./utilities/fsl_debug_console.o
  .debug_info    0x000004f6      0x640 ./utilities/fsl_io.o
  .debug_info    0x00000b36      0x378 ./utilities/fsl_log.o
  .debug_info    0x00000eae      0x502 ./utilities/fsl_str.o
- .debug_info    0x000013b0       0x77 ./startup/startup_MKE06Z4.o
- .debug_info    0x00001427       0xcc ./source/main.o
- .debug_info    0x000014f3      0x2a1 ./freertos/source/list.o
- .debug_info    0x00001794      0xe1c ./freertos/source/queue.o
- .debug_info    0x000025b0     0x17f4 ./freertos/source/tasks.o
- .debug_info    0x00003da4      0xad3 ./freertos/source/timers.o
- .debug_info    0x00004877       0xbb ./freertos/portable/fsl_tickless_systick.o
- .debug_info    0x00004932      0x2e8 ./freertos/portable/heap_4.o
- .debug_info    0x00004c1a      0x22d ./freertos/portable/port.o
- .debug_info    0x00004e47      0x920 ./drivers/fsl_adc.o
- .debug_info    0x00005767      0xb9c ./drivers/fsl_clock.o
- .debug_info    0x00006303     0x1302 ./drivers/fsl_ftm.o
- .debug_info    0x00007605      0x92d ./drivers/fsl_gpio.o
- .debug_info    0x00007f32     0x1b27 ./drivers/fsl_i2c.o
- .debug_info    0x00009a59     0x1bc6 ./drivers/fsl_mscan.o
- .debug_info    0x0000b61f      0x5ad ./drivers/fsl_pit.o
- .debug_info    0x0000bbcc      0x6bc ./drivers/fsl_port.o
- .debug_info    0x0000c288      0xaf2 ./drivers/fsl_rtc.o
- .debug_info    0x0000cd7a     0x152f ./drivers/fsl_spi.o
- .debug_info    0x0000e2a9     0x159b ./drivers/fsl_uart.o
- .debug_info    0x0000f844      0x1a9 ./board/board.o
- .debug_info    0x0000f9ed      0x5a5 ./board/clock_config.o
- .debug_info    0x0000ff92      0x347 ./board/pin_mux.o
- .debug_info    0x000102d9      0x2ac ./CMSIS/system_MKE06Z4.o
- .debug_info    0x00010585      0x704 ./AppSmartAqua/AppControll.o
- .debug_info    0x00010c89      0x485 ./AppSmartAqua/AppDisplay.o
- .debug_info    0x0001110e      0x94b ./AppSmartAqua/AppIO.o
- .debug_info    0x00011a59     0x187e ./AppSmartAqua/AppIhm.o
- .debug_info    0x000132d7      0x655 ./AppSmartAqua/AppLCD16x2.o
- .debug_info    0x0001392c      0x4f9 ./AppSmartAqua/AppPwm.o
- .debug_info    0x00013e25      0x79b ./AppSmartAqua/AppRtc.o
- .debug_info    0x000145c0     0x113c ./AppSmartAqua/AppShell.o
- .debug_info    0x000156fc      0xc98 ./AppSmartAqua/AppTemperature.o
- .debug_info    0x00016394      0xfa6 ./AppSmartAqua/AppTimer.o
+ .debug_info    0x000013b0       0x7a ./startup/startup_MKE06Z4.o
+ .debug_info    0x0000142a       0xcc ./source/main.o
+ .debug_info    0x000014f6      0x2a1 ./freertos/source/list.o
+ .debug_info    0x00001797      0xe1c ./freertos/source/queue.o
+ .debug_info    0x000025b3     0x17f4 ./freertos/source/tasks.o
+ .debug_info    0x00003da7      0xad3 ./freertos/source/timers.o
+ .debug_info    0x0000487a       0xbb ./freertos/portable/fsl_tickless_systick.o
+ .debug_info    0x00004935      0x2e8 ./freertos/portable/heap_4.o
+ .debug_info    0x00004c1d      0x22d ./freertos/portable/port.o
+ .debug_info    0x00004e4a      0x920 ./drivers/fsl_adc.o
+ .debug_info    0x0000576a      0xb9c ./drivers/fsl_clock.o
+ .debug_info    0x00006306     0x1302 ./drivers/fsl_ftm.o
+ .debug_info    0x00007608      0x92d ./drivers/fsl_gpio.o
+ .debug_info    0x00007f35     0x1b27 ./drivers/fsl_i2c.o
+ .debug_info    0x00009a5c     0x1bc6 ./drivers/fsl_mscan.o
+ .debug_info    0x0000b622      0x5ad ./drivers/fsl_pit.o
+ .debug_info    0x0000bbcf      0x6bc ./drivers/fsl_port.o
+ .debug_info    0x0000c28b      0xaf2 ./drivers/fsl_rtc.o
+ .debug_info    0x0000cd7d     0x152f ./drivers/fsl_spi.o
+ .debug_info    0x0000e2ac     0x159b ./drivers/fsl_uart.o
+ .debug_info    0x0000f847      0x1a9 ./board/board.o
+ .debug_info    0x0000f9f0      0x5a5 ./board/clock_config.o
+ .debug_info    0x0000ff95      0x347 ./board/pin_mux.o
+ .debug_info    0x000102dc      0x2ac ./CMSIS/system_MKE06Z4.o
+ .debug_info    0x00010588      0x704 ./AppSmartAqua/AppControll.o
+ .debug_info    0x00010c8c      0x485 ./AppSmartAqua/AppDisplay.o
+ .debug_info    0x00011111      0x94b ./AppSmartAqua/AppIO.o
+ .debug_info    0x00011a5c     0x187e ./AppSmartAqua/AppIhm.o
+ .debug_info    0x000132da      0x655 ./AppSmartAqua/AppLCD16x2.o
+ .debug_info    0x0001392f      0x4f9 ./AppSmartAqua/AppPwm.o
+ .debug_info    0x00013e28      0x79b ./AppSmartAqua/AppRtc.o
+ .debug_info    0x000145c3     0x113c ./AppSmartAqua/AppShell.o
+ .debug_info    0x000156ff      0xc98 ./AppSmartAqua/AppTemperature.o
+ .debug_info    0x00016397      0xfa6 ./AppSmartAqua/AppTimer.o
 
 .debug_abbrev   0x00000000     0x4094
  .debug_abbrev  0x00000000       0x84 ./utilities/fsl_assert.o
@@ -7602,83 +7602,83 @@ OUTPUT(SmartAqua.elf elf32-littlearm)
  .debug_line    0x0000db11      0x7e7 ./AppSmartAqua/AppTemperature.o
  .debug_line    0x0000e2f8      0x809 ./AppSmartAqua/AppTimer.o
 
-.debug_str      0x00000000    0x3c438
- .debug_str     0x00000000    0x29d4a ./utilities/fsl_assert.o
-                              0x2a0d6 (size before relaxing)
- .debug_str     0x00029d4a      0x4e2 ./utilities/fsl_debug_console.o
-                              0x2a63e (size before relaxing)
- .debug_str     0x0002a22c      0x8ac ./utilities/fsl_io.o
-                              0x2ab18 (size before relaxing)
- .debug_str     0x0002aad8     0x4343 ./utilities/fsl_log.o
-                              0x2e5de (size before relaxing)
- .debug_str     0x0002ee1b      0xbba ./utilities/fsl_str.o
-                              0x2afc3 (size before relaxing)
- .debug_str     0x0002f9d5     0x2b57 ./source/main.o
-                              0x306d5 (size before relaxing)
- .debug_str     0x0003252c      0x13c ./freertos/source/list.o
-                               0x72e1 (size before relaxing)
- .debug_str     0x00032668      0x7ab ./freertos/source/queue.o
-                               0x9799 (size before relaxing)
- .debug_str     0x00032e13     0x1392 ./freertos/source/tasks.o
-                               0xaf74 (size before relaxing)
- .debug_str     0x000341a5      0x4cd ./freertos/source/timers.o
-                               0x8d8d (size before relaxing)
- .debug_str     0x00034672      0x545 ./freertos/portable/fsl_tickless_systick.o
-                               0x68e5 (size before relaxing)
- .debug_str     0x00034bb7      0x22a ./freertos/portable/heap_4.o
-                               0x79c0 (size before relaxing)
- .debug_str     0x00034de1      0x16b ./freertos/portable/port.o
-                               0x6a7a (size before relaxing)
- .debug_str     0x00034f4c      0x652 ./drivers/fsl_adc.o
-                              0x2abf4 (size before relaxing)
- .debug_str     0x0003559e      0x9a0 ./drivers/fsl_clock.o
-                              0x2afd3 (size before relaxing)
- .debug_str     0x00035f3e      0xdf0 ./drivers/fsl_ftm.o
-                              0x2b651 (size before relaxing)
- .debug_str     0x00036d2e      0x1ca ./drivers/fsl_gpio.o
-                              0x2a82e (size before relaxing)
- .debug_str     0x00036ef8      0xe42 ./drivers/fsl_i2c.o
-                              0x2b6c8 (size before relaxing)
- .debug_str     0x00037d3a      0xdee ./drivers/fsl_mscan.o
-                              0x2b878 (size before relaxing)
- .debug_str     0x00038b28       0x96 ./drivers/fsl_pit.o
-                              0x2a7c9 (size before relaxing)
- .debug_str     0x00038bbe      0xb2f ./drivers/fsl_port.o
-                              0x2accd (size before relaxing)
- .debug_str     0x000396ed      0x448 ./drivers/fsl_rtc.o
-                              0x2ad4f (size before relaxing)
- .debug_str     0x00039b35      0x7d2 ./drivers/fsl_spi.o
-                              0x2b2aa (size before relaxing)
- .debug_str     0x0003a307      0x88f ./drivers/fsl_uart.o
-                              0x2b59b (size before relaxing)
- .debug_str     0x0003ab96       0x37 ./board/board.o
-                              0x2a9e3 (size before relaxing)
- .debug_str     0x0003abcd      0x12c ./board/clock_config.o
-                              0x2a8e3 (size before relaxing)
- .debug_str     0x0003acf9       0x22 ./board/pin_mux.o
-                              0x2a88a (size before relaxing)
- .debug_str     0x0003ad1b       0xa2 ./CMSIS/system_MKE06Z4.o
-                              0x2714d (size before relaxing)
- .debug_str     0x0003adbd      0x350 ./AppSmartAqua/AppControll.o
-                              0x30fcc (size before relaxing)
- .debug_str     0x0003b10d       0xb3 ./AppSmartAqua/AppDisplay.o
-                              0x30d41 (size before relaxing)
- .debug_str     0x0003b1c0      0x284 ./AppSmartAqua/AppIO.o
-                              0x310ea (size before relaxing)
- .debug_str     0x0003b444      0x586 ./AppSmartAqua/AppIhm.o
-                              0x31452 (size before relaxing)
- .debug_str     0x0003b9ca      0x122 ./AppSmartAqua/AppLCD16x2.o
-                              0x30e8f (size before relaxing)
- .debug_str     0x0003baec       0xaa ./AppSmartAqua/AppPwm.o
-                              0x30e10 (size before relaxing)
- .debug_str     0x0003bb96       0xa0 ./AppSmartAqua/AppRtc.o
-                              0x3110e (size before relaxing)
- .debug_str     0x0003bc36      0x251 ./AppSmartAqua/AppShell.o
-                              0x32034 (size before relaxing)
- .debug_str     0x0003be87      0x2d7 ./AppSmartAqua/AppTemperature.o
-                              0x31ff7 (size before relaxing)
- .debug_str     0x0003c15e      0x2da ./AppSmartAqua/AppTimer.o
-                              0x31936 (size before relaxing)
+.debug_str      0x00000000    0x3c43b
+ .debug_str     0x00000000    0x29d4d ./utilities/fsl_assert.o
+                              0x2a0d9 (size before relaxing)
+ .debug_str     0x00029d4d      0x4e2 ./utilities/fsl_debug_console.o
+                              0x2a641 (size before relaxing)
+ .debug_str     0x0002a22f      0x8ac ./utilities/fsl_io.o
+                              0x2ab1b (size before relaxing)
+ .debug_str     0x0002aadb     0x4343 ./utilities/fsl_log.o
+                              0x2e5e1 (size before relaxing)
+ .debug_str     0x0002ee1e      0xbba ./utilities/fsl_str.o
+                              0x2afc6 (size before relaxing)
+ .debug_str     0x0002f9d8     0x2b57 ./source/main.o
+                              0x306d8 (size before relaxing)
+ .debug_str     0x0003252f      0x13c ./freertos/source/list.o
+                               0x72e4 (size before relaxing)
+ .debug_str     0x0003266b      0x7ab ./freertos/source/queue.o
+                               0x979c (size before relaxing)
+ .debug_str     0x00032e16     0x1392 ./freertos/source/tasks.o
+                               0xaf77 (size before relaxing)
+ .debug_str     0x000341a8      0x4cd ./freertos/source/timers.o
+                               0x8d90 (size before relaxing)
+ .debug_str     0x00034675      0x545 ./freertos/portable/fsl_tickless_systick.o
+                               0x68e8 (size before relaxing)
+ .debug_str     0x00034bba      0x22a ./freertos/portable/heap_4.o
+                               0x79c3 (size before relaxing)
+ .debug_str     0x00034de4      0x16b ./freertos/portable/port.o
+                               0x6a7d (size before relaxing)
+ .debug_str     0x00034f4f      0x652 ./drivers/fsl_adc.o
+                              0x2abf7 (size before relaxing)
+ .debug_str     0x000355a1      0x9a0 ./drivers/fsl_clock.o
+                              0x2afd6 (size before relaxing)
+ .debug_str     0x00035f41      0xdf0 ./drivers/fsl_ftm.o
+                              0x2b654 (size before relaxing)
+ .debug_str     0x00036d31      0x1ca ./drivers/fsl_gpio.o
+                              0x2a831 (size before relaxing)
+ .debug_str     0x00036efb      0xe42 ./drivers/fsl_i2c.o
+                              0x2b6cb (size before relaxing)
+ .debug_str     0x00037d3d      0xdee ./drivers/fsl_mscan.o
+                              0x2b87b (size before relaxing)
+ .debug_str     0x00038b2b       0x96 ./drivers/fsl_pit.o
+                              0x2a7cc (size before relaxing)
+ .debug_str     0x00038bc1      0xb2f ./drivers/fsl_port.o
+                              0x2acd0 (size before relaxing)
+ .debug_str     0x000396f0      0x448 ./drivers/fsl_rtc.o
+                              0x2ad52 (size before relaxing)
+ .debug_str     0x00039b38      0x7d2 ./drivers/fsl_spi.o
+                              0x2b2ad (size before relaxing)
+ .debug_str     0x0003a30a      0x88f ./drivers/fsl_uart.o
+                              0x2b59e (size before relaxing)
+ .debug_str     0x0003ab99       0x37 ./board/board.o
+                              0x2a9e6 (size before relaxing)
+ .debug_str     0x0003abd0      0x12c ./board/clock_config.o
+                              0x2a8e6 (size before relaxing)
+ .debug_str     0x0003acfc       0x22 ./board/pin_mux.o
+                              0x2a88d (size before relaxing)
+ .debug_str     0x0003ad1e       0xa2 ./CMSIS/system_MKE06Z4.o
+                              0x27150 (size before relaxing)
+ .debug_str     0x0003adc0      0x350 ./AppSmartAqua/AppControll.o
+                              0x30fcf (size before relaxing)
+ .debug_str     0x0003b110       0xb3 ./AppSmartAqua/AppDisplay.o
+                              0x30d44 (size before relaxing)
+ .debug_str     0x0003b1c3      0x284 ./AppSmartAqua/AppIO.o
+                              0x310ed (size before relaxing)
+ .debug_str     0x0003b447      0x586 ./AppSmartAqua/AppIhm.o
+                              0x31455 (size before relaxing)
+ .debug_str     0x0003b9cd      0x122 ./AppSmartAqua/AppLCD16x2.o
+                              0x30e92 (size before relaxing)
+ .debug_str     0x0003baef       0xaa ./AppSmartAqua/AppPwm.o
+                              0x30e13 (size before relaxing)
+ .debug_str     0x0003bb99       0xa0 ./AppSmartAqua/AppRtc.o
+                              0x31111 (size before relaxing)
+ .debug_str     0x0003bc39      0x251 ./AppSmartAqua/AppShell.o
+                              0x32037 (size before relaxing)
+ .debug_str     0x0003be8a      0x2d7 ./AppSmartAqua/AppTemperature.o
+                              0x31ffa (size before relaxing)
+ .debug_str     0x0003c161      0x2da ./AppSmartAqua/AppTimer.o
+                              0x31939 (size before relaxing)
 
 .comment        0x00000000       0x70
  .comment       0x00000000       0x70 ./utilities/fsl_assert.o
